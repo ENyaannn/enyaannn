@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enyaannn</h1>
-<h3 align="center">Future Developer | Focused on growth</h3>
+
 
 <p align="center">
   Building skills in programming and creating real projects step by step.
