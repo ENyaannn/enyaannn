@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Enyaannn</h1>
-<h3 align="center">ICT Student 
+<h3 align="center">Future Developer | Focused on growth</h3>
 
 <p align="center">
-  17 y.o. student at ROC van Amsterdam, focused on programming and self-development.
+  Building skills in programming and creating real projects step by step.
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 I study ICT at ROC van Amsterdam  
-- 💻 Passionate about learning programming languages  
-- 🚀 Constantly improving my skills and building projects  
-- 🏋️‍♂️ I go to the gym and stay disciplined  
-- ⚡ I already have a few completed projects  
+### ⚡ About Me
+- 💻 Learning programming and improving every day  
+- 🚀 Already built a few projects  
+- 🧠 Focused on growth and consistency  
+- ⚡ Turning ideas into real things  
 
 ---
 
@@ -23,21 +22,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enyaannn&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Streak Stats
+### 🔥 Activity
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=enyaannn&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 📫 Contact Me
 <p align="center">
-  <a href="https://t.me/your_username">Telegram</a>
+  <a href="https://t.me/EnyaaNnn">Telegram: @EnyaaNnn</a>
 </p>
