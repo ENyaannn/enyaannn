@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enyaannn</h1>
-<h3 align="center">ICT Student | Future Developer</h3>
+<h3 align="center">ICT Student 
 
 <p align="center">
   17 y.o. student at ROC van Amsterdam, focused on programming and self-development.
